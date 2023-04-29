@@ -28,7 +28,7 @@ def main():
 	left, right = st.columns(2)
 	prediction = st.container()
 
-	st.image("https://pliki.well.pl/i/01/51/77/015177_r2_1320.jpg")
+	st.image("https://www.oecd.org/media/oecdorg/directorates/directorateforemploymentlabourandsocialaffairs/health/HCQO-Indicators.PNG")
 
 	with overview:
 		st.title("Czy zdrowy?")
